@@ -27,10 +27,10 @@
       "items": [
         {
           "id": "site_1762660211997_zdjxemu5o",
-          "title": "谷歌",
-          "href": "google.com",
-          "description": "",
-          "icon": "",
+          "title": "Google",
+          "href": "https://google.com",
+          "description": "访问 google.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=google.com",
           "enabled": true
         }
       ],
