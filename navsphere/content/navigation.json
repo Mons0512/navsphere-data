@@ -17,6 +17,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1762660178337",
+      "title": "cece",
+      "icon": "Coffee",
+      "description": "111",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
