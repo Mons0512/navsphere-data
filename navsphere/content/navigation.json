@@ -24,7 +24,16 @@
       "icon": "Coffee",
       "description": "111",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762660211997_zdjxemu5o",
+          "title": "谷歌",
+          "href": "google.com",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
